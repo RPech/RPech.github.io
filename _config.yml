@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+<link rel="shortcut icon" type="image/seeds.png" href="seeds.png">
+
 title: Rebackpacker
 #email: rebekka@example.com
 description: >- # this means to ignore newlines until "baseurl:"
