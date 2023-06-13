@@ -33,7 +33,7 @@ instagram_username:  rebackpacker
 
 
 # Build settings
-theme: minima
+theme: compressed #minima
 plugins:
   - jekyll-feed
 
