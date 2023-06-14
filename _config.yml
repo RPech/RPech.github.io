@@ -32,8 +32,33 @@ instagram_username:  rebackpacker
 
 # Build settings
 theme: minima #
-plugins:
+#plugins:
+#  - jekyll-feed
+  
+  plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-regex-replace
+
+future: true
+
+permalink: /:year/:month/:day/:title.html
+#permalink: pretty
+
+pagination:
+  enabled: true
+  per_page: 5
+  trail:
+    before: 2
+    after: 2
+  sort_reverse: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
