@@ -42,9 +42,9 @@ theme: minima #
  # - jekyll-sitemap
  # - jekyll-regex-replace
 
-future: true
+#future: true
 
-permalink: /:year/:month/:day/:title.html
+#permalink: /:year/:month/:day/:title.html
 #permalink: pretty
 
 pagination:
@@ -55,10 +55,10 @@ pagination:
     after: 2
   sort_reverse: true
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
+#collections:
+ # pages:
+  #  output: true
+   # permalink: /:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
