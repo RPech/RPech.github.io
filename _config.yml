@@ -47,13 +47,13 @@ theme: minima #
 #permalink: /:year/:month/:day/:title.html
 #permalink: pretty
 
-pagination:
-  enabled: true
-  per_page: 5
-  trail:
-    before: 2
-    after: 2
-  sort_reverse: true
+#pagination:
+ # enabled: true
+  #per_page: 5
+  #trail:
+   # before: 2
+   # after: 2
+  #sort_reverse: true
 
 #collections:
  # pages:
