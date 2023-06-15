@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "WEP 2023 - EDGE"
+date:   2023-03-17
+categories: jekyll update
+---
+
+Das Jahr startet hier mit dem so called *WEP* - das "Winter Enrichment Program". Das ganze geht über zwei Wochen und jeder Student muss einmal komplett daran teilgenommen haben.
+In diesen Wochen werden hier viele Vorträge zu allen möglichen Fachbereichen oder auch sozialen Bereichen gehalten. Es kommen spannende Gäste aus der ganzen Welt und allen Bereichen. Und es werden Workshops, Seminare, Diskussionsrunden und viele soziale Events angeboten.
+Dabei sind für eine erfolgreiche Teilnahme als Student die wichtigsten Vorträge, ein Machine Learning Workshop und ein selbstgewählter Workshop Pflicht. Den Rest kann man sich selbst aussuchen.
+Das ganze stand dieses Jahr unter dem Motto *EDGE*.
+So gab es Vorträge zu Themen wie Neurodiversität, Bein-Prothesen, schwarze Löcher und Vortragende wie die erste saudische Frau, die den Everest erklommen hat, eine Weltmeisterin in Apnoe-Taucherin, der ehemalige Fußballspieler Didier Drogba, der sich jetzt sozial enorm engagiert, zwei Frauen, die zwei Jahre alleine umgeben von Eis gelebt haben. Und noch viele mehr... Das waren jetzt gerade alle, die mir in Erinnerung geblieben sind.
+
+Während mein Machine Learning Workshop eher mau war, hatte ich aber einen anderen Workshop mit dem Titel *Imaginative World Building*. Dort haben wir in Gruppen uns eine Umwelt ausgesucht in der wir die nächsten 500 Jahre planen und uns Technologien überlegen, die entwickelt werden könnten. Über 4 Tage planten wir also unsere Welten und suchten uns eine Technologie aus, zu der wir einen Prototyp entwickelten und dann mit einfachen Mitteln bauten. Das war ein sehr cooler und kreativer Workshop, bei dem ich viel Spaß hatte. :)
