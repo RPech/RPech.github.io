@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+logo: RP
 title: Rebackpacker
 #email: rebekka@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
@@ -28,6 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  rpech
 instagram_username:  rebackpacker
+
+#social links
+github_url:  https://github.com/RPech
+instagram_url:  https://www.instagram.com/rebackpacker/
 
 
 # Build settings
