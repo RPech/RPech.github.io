@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Jizan DAY 1"
-date:   2023-06-09 
-categories: jekyll update
----
-
-Blog Post Jizan, Wadi Lajab
