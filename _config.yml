@@ -31,9 +31,7 @@ instagram_username:  rebackpacker
 
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+
   
   # Tracker
 analytics:

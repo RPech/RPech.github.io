@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jizan DAY 1 - Wadi Lajab"
+img: himalayan.jpg
 date:   2023-06-09
 categories: jekyll update
 ---
