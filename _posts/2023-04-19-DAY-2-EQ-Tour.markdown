@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DAY 2 - Empty Quarter Tour"
-img: EQ1_1.jpg
+img: EQ2_1.jpg
 date:   2023-04-19
 categories: jekyll update
 ---
