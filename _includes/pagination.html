@@ -5,11 +5,11 @@
     {% if paginator.previous_page == 1 %}
       <a href="/">Prev</a>
     {% else %}
-      <a href="/page{{ paginator.previous_page }}">Prev</a>
+      <a href="/page{{ paginator.previous_page }}">&#8658</a>
     {% endif %}
 
   {% else %}
-    <span class="disabled">Prev</span>
+    <span class="disabled">&#8658</span>
   {% endif %}
 
   {% if paginator.page == 1 %}
