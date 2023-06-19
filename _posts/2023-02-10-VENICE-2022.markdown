@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VENICE 2022"
-img: himalayan.jpg # Add image post (optional)
+img: Venice_1.jpg # Add image post (optional)
 date:   2023-02-10
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Angekommen"
+img: ErsterPost_1.jpg
 date:   2022-05-03 
 categories: jekyll update
 ---

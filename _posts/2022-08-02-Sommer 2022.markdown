@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sommer 2022"
+img: KAUST_1.jpg
 date:   2022-08-02
 categories: jekyll update
 ---

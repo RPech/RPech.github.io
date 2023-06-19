@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Al Wabah Krater"
+img: Krater_1.jpg
 date:   2022-11-19
 categories: jekyll update
 ---

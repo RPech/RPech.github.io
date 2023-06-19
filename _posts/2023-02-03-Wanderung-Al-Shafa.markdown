@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wanderung Al Shafa"
+img: Taif_1.jpg
 date:   2023-02-03
 categories: jekyll update
 ---

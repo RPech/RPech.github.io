@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ash Shafa und Taif"
+img: AlShafa_1.jpg
 date:   2022-05-31
 categories: jekyll update
 ---

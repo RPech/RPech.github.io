@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ein kurzes Lebenszeichen"
+img: Strand_1.jpg
 date:   2022-05-10
 categories: jekyll update
 ---

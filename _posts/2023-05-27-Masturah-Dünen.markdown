@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Abenteuer in den Masturah Dünen"
-img: himalayan.jpg # Add image post (optional)
+img: Kartoffelfelsen2_1.jpg # Add image post (optional)
 date:   2023-05-27
 categories: jekyll update
 ---

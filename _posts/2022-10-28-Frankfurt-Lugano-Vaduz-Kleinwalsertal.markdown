@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Frankfurt - Lugano - Vaduz - Kleinwalsertal"
+img: Lugano_1.jpg
 date:   2022-10-28
 categories: jekyll update
 ---

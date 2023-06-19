@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Al Balad"
+img: AlBalad_1.jpg
 date:   2023-01-27
 categories: jekyll update
 ---

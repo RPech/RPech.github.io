@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Der Campus"
+img: Campus_1.jpg
 date:   2022-05-18
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kartoffelfelsen"
+img: Kartoffelfelsen_1.jpg
 date:   2023-03-11
 categories: jekyll update
 ---

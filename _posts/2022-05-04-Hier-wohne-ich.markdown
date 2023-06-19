@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hier wohne ich"
+img: Haus.jpg
 date:   2022-05-04
 categories: jekyll update
 ---

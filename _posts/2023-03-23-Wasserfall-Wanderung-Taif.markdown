@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wasserfall Wanderung Taif"
+img: Waterfall_1.jpg
 date:   2023-03-23
 categories: jekyll update
 ---

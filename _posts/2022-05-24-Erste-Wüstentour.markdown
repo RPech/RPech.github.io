@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Erste Wüstentour"
+img: ErsteWueste_1.jpg
 date:   2022-05-24
 categories: jekyll update
 ---

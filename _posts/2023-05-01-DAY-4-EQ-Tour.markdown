@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DAY 4 - Empty Quarter Tour"
-img: himalayan.jpg # Add image post (optional)
+img: EQ4_1.jpg # Add image post (optional)
 date:   2023-05-01
 categories: jekyll update
 ---

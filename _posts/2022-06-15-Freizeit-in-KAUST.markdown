@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Freizeit in KAUST"
+img: Zwischenpost_1.jpg
 date:   2022-06-15
 categories: jekyll update
 ---
