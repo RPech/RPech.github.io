@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Food :D"
+img: Food_1.jpg
 date:   2022-07-17
 categories: jekyll update
 ---
