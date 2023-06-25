@@ -21,6 +21,15 @@ layout: default
     </div>
 
     <!-- Fotos -->
+    <div class="post_gallery">
+      <h2 class="post_gallery_title">Gallery</h2>
+      <div class="post_gallery_list">
+        {% for img in page.imgs %}
+          <a href="{{ "/assets/img/" | prepend: site.baseurl | append : img}}" data-lightbox="post-gallery" data-title="{{page.title}}">
+            <img src="{{ "/assets/img/" | prepend: site.baseurl | append : img}}" alt="{{page.title}}">
+          </a>
+        {% endfor %}
+      </div>
  
     
     
