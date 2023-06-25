@@ -20,16 +20,16 @@ layout: default
       {{page.content | markdownify}}
     </div>
 
-    <!-- Photos of this date in quadratic version -->
-    <div class="post_gallery">
-      <h2 class="post_gallery_title">Pictures</h2>
-      <div class="post_gallery_list">
-        {% for img in page.imgs %}
-          <a href="{{ "/assets/img/" | prepend: site.baseurl | append : img}}" data-lightbox="post-gallery" data-title="{{page.title}}">
-            <img src="{{ "/assets/img/" | prepend: site.baseurl | append : img}}" alt="{{page.title}}">
-          </a>
-        {% endfor %}
-      </div>
+    <!-- Photos  -->
+    <div class ="image-gallery">
+      {% for name in page.imgs %}
+          <div class="box">
+          <a href="{{ "/assets/img/" | prepend: site.baseurl | append : name}}">
+            <img src="{{"/assets/img/" | prepend: site.baseurl | append : name " alt="{{ page.title }}"  class="img-gallery" />
+           </a>
+          </div>
+       {% endfor %}
+    </div>
  
     
     
