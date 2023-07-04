@@ -20,17 +20,19 @@ layout: default
       {{page.content | markdownify}}
     </div>
 
-    <div class="wrap">
-      <!-- Define all of the tiles: -->
-      <div class="box">
-        <div class="boxInner">
-          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-          <div class="titleBox">
-            Testbild
-          </div>
+    <section class="photo_box">
+      <div class="post_wrapper">
+        <div class="recent_list">
+          {% for pic in site.posts %}
+            {% if post.title %}
+              <a style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.imgs}} )">
+                  <span>{{ post.title }}</span>
+              </a>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
-    </div>
+    </section> <!-- End Section Photo Box -->  
  
     
     
