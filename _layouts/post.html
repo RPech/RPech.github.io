@@ -20,7 +20,17 @@ layout: default
       {{page.content | markdownify}}
     </div>
 
-    
+    <div class="wrap">
+      <!-- Define all of the tiles: -->
+      <div class="box">
+        <div class="boxInner">
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}}>
+          <div class="titleBox">
+            Testbild
+          </div>
+        </div>
+      </div>
+    </div>
  
     
     
