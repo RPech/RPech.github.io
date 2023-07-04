@@ -20,16 +20,16 @@ layout: default
       {{page.content | markdownify}}
     </div>
 
-    <div class="recent_list">
-      {% for post in site.posts offset:0 limit:3 %}
-        {% if post.title %}
-          <a href="{{ post.url | prepend: site.baseurl }}"
-            class="recent_item"
-            style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
-              <span>{{ post.title }}</span>
-          </a>
-        {% endif %}
-      {% endfor %}
+    <div class="wrap">
+      <!-- Define all of the tiles: -->
+      <div class="box">
+        <div class="boxInner">
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+          <div class="titleBox">
+            Testbild
+          </div>
+        </div>
+      </div>
     </div>
  
     
