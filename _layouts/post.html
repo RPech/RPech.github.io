@@ -23,13 +23,8 @@ layout: default
     <section class="photo_box">
       <div class="post_wrapper">
         <div class="recent_list">
-          {% for pic in site.posts %}
-            {% if post.title %}
               <a style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.imgs}} )">
-                  <span>{{ post.title }}</span>
               </a>
-            {% endif %}
-          {% endfor %}
         </div>
       </div>
     </section> <!-- End Section Photo Box -->  
