@@ -20,14 +20,21 @@ layout: default
       {{page.content | markdownify}}
     </div>
 
-    <section class="photo_box">
-      <div class="post_wrapper">
-        <div class="recent_list">
-              <a style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.imgs}} )">
-              </a>
-        </div>
-      </div>
-    </section> <!-- End Section Photo Box -->  
+  <!-- The grid: four columns -->
+<div class="row">
+  <div class="column">
+    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="Nature" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="Snow" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="Mountains" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} onclick="myFunction(this);">
+  </div>
+</div>
  
     
     
