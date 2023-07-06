@@ -2,7 +2,10 @@
 layout: post
 title:  "Jizan DAY 2 - Farasan Islands"
 img: Farasan_1.jpg
-imgs: WadiLajab_1.jpg 
+img1: WadiLajab_1.jpg
+img2: Farasan_1.jpg
+img3: AlBalad_1.jpg
+img4: Campus_1.jpg
 date:   2023-06-17
 categories: jekyll update
 ---
