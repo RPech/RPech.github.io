@@ -23,14 +23,34 @@ layout: default
 <!-- The grid: four columns -->
 <section class="recent_box">
   <div class="recent_list">
-    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}}>
-
-    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}}>
- 
-    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}}>
-  
-    <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img4}}>
-  </div>
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+        {% if post.title %}
+        <a href="{{ post.url | prepend: site.baseurl }}"
+          class="recent_item"
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}}>
+        <span>{{ post.title }}</span>
+                </a>
+        {% if post.title %}
+        <a href="{{ post.url | prepend: site.baseurl }}"
+          class="recent_item"
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}}>
+        <span>{{ post.title }}</span>
+                </a>
+        {% if post.title %}
+        <a href="{{ post.url | prepend: site.baseurl }}"
+          class="recent_item"
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}}>
+        <span>{{ post.title }}</span>
+                </a>
+        {% if post.title %}
+        <a href="{{ post.url | prepend: site.baseurl }}"
+          class="recent_item"
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img4}}>
+        <span>{{ post.title }}</span>
+                </a>
+      </div>
+    </div>
 </section>
     
     
