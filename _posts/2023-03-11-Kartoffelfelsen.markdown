@@ -2,7 +2,6 @@
 layout: post
 title:  "Kartoffelfelsen"
 img: Kartoffelfelsen_1.jpg
-img: Lugano_1.jpg
 img1: Post15_1.jpg
 img2: Post15_2.jpg
 img3: Post15_3.jpg

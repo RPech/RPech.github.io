@@ -2,7 +2,6 @@
 layout: post
 title:  "Al Balad"
 img: AlBalad_1.jpg
-img: Lugano_1.jpg
 img1: Post12_1.jpg
 img2: Post12_2.jpg
 img3: Post12_3.jpg

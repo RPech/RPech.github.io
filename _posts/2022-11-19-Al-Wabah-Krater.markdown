@@ -2,7 +2,6 @@
 layout: post
 title:  "Al Wabah Krater"
 img: Krater_1.jpg
-img: Lugano_1.jpg
 img1: Post11_1.jpg
 img2: Post11_2.jpg
 img3: Post11_3.jpg

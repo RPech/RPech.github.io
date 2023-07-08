@@ -26,13 +26,8 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">Fotos</h2>
         <div class="recent_item">
-        {% if post.img1 %}
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="180" height="180" alt="" style="margin:5px" align="left">
-        {% endif %}
-        {% if post.img2 %}
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="180" height="180" alt="" style="margin:5px" align="left">
-        {% endif %}
-        {% if post.img3 %}
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="180" height="180" alt="" style="margin:5px" align="left">
         {% endif %}
         </div>

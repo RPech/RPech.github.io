@@ -2,7 +2,6 @@
 layout: post
 title:  "WEP 2023 - EDGE"
 img: WEP_1.jpg
-img: Lugano_1.jpg
 img1: Post16_1.jpg
 img2: Post16_2.jpg
 img3: Post16_3.jpg

@@ -2,7 +2,6 @@
 layout: post
 title:  "Wasserfall Wanderung Taif"
 img: Waterfall_1.jpg
-img: Lugano_1.jpg
 img1: Post17_1.jpg
 img2: Post17_2.jpg
 img3: Post17_3.jpg

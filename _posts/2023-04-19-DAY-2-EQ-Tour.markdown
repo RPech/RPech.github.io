@@ -2,7 +2,6 @@
 layout: post
 title:  "DAY 2 - Empty Quarter Tour"
 img: EQ2_1.jpg
-img: Lugano_1.jpg
 img1: Post20_1.jpg
 img2: Post20_2.jpg
 img3: Post20_3.jpg

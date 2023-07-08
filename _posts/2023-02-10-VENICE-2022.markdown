@@ -2,7 +2,6 @@
 layout: post
 title:  "VENICE 2022"
 img: Venice_1.jpg # Add image post (optional)
-img: Lugano_1.jpg
 img1: Post14_1.jpg
 img2: Post14_2.jpg
 img3: Post14_3.jpg

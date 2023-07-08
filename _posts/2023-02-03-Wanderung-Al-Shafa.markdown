@@ -2,7 +2,6 @@
 layout: post
 title:  "Wanderung Al Shafa"
 img: Taif_1.jpg
-img: Lugano_1.jpg
 img1: Post13_1.jpg
 img2: Post13_2.jpg
 img3: Post13_3.jpg
