@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sommer 2022"
-img: KAUST_1.jpg
+img: Zwischenpost_1.jpg
 img1: Post9_1.jpg
 img2: Post9_2.jpg
 img3: Post9_3.jpg

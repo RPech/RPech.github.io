@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Freizeit in KAUST"
-img: Zwischenpost_1.jpg
+img: KAUST_1.jpg
 img1: Post7_1.jpg
 img2: Post7_2.jpg
 img3: Post7_3.jpg
