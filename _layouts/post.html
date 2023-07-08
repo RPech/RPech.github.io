@@ -24,12 +24,11 @@ layout: default
 <section class="photo_box">
   <div class="recent_list">
     <div class="post_wrapper">
-      <h2 class="recent_title">Fotos</h2>
+      <h2 class="recent_title"></h2>
         <div class="recent_item">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="180" height="180" alt="" style="margin:5px" align="left">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="180" height="180" alt="" style="margin:5px" align="left">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="180" height="180" alt="" style="margin:5px" align="left">
-        {% endif %}
         </div>
         <div class="recent_item">
         {% if post.img4 %}
