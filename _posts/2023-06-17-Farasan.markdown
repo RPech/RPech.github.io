@@ -2,7 +2,7 @@
 layout: post
 title:  "Jizan DAY 2 - Farasan Islands"
 img: Farasan_1.jpg
-img1: Post26_1.jpg
+img1: Farasan_1.jpg
 img2: Post26_2.jpg
 img3: Post26_3.jpg
 img4: Post26_4.jpg
