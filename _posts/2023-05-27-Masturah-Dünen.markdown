@@ -2,6 +2,16 @@
 layout: post
 title:  "Abenteuer in den Masturah Dünen"
 img: Kartoffelfelsen2_1.jpg # Add image post (optional)
+img1: Post24_1.jpg
+img2: Post24_2.jpg
+img3: Post24_3.jpg
+img4: Post24_4.jpg
+img5: Post24_5.jpg
+img6: Post24_6.jpg
+img7: Post24_7.jpg
+img8: Post24_8.jpg
+img9: Post24_9.jpg
+img10: Post24_10.jpg
 date:   2023-05-27
 categories: jekyll update
 ---

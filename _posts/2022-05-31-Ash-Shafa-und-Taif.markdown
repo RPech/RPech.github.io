@@ -2,6 +2,16 @@
 layout: post
 title:  "Ash Shafa und Taif"
 img: AlShafa_1.jpg
+img1: Post6_1.jpg
+img2: Post6_2.jpg
+img3: Post6_3.jpg
+img4: Post6_4.jpg
+img5: Post6_5.jpg
+img6: Post6_6.jpg
+img7: Post6_7.jpg
+img8: Post6_8.jpg
+img9: Post6_9.jpg
+img10: Post6_10.jpg
 date:   2022-05-31
 categories: jekyll update
 ---

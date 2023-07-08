@@ -2,6 +2,16 @@
 layout: post
 title:  "Al Wabah Krater"
 img: Krater_1.jpg
+img: Lugano_1.jpg
+img1: Post11_1.jpg
+img2: Post11_2.jpg
+img3: Post11_3.jpg
+img4: Post11_4.jpg
+img5: Post11_5.jpg
+img6: Post11_6.jpg
+img7: Post11_7.jpg
+img8: Post11_8.jpg
+img9: Post11_9.jpg
 date:   2022-11-19
 categories: jekyll update
 ---

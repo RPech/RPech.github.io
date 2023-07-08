@@ -2,6 +2,11 @@
 layout: post
 title:  "Hier wohne ich"
 img: Haus_1.jpg
+img1: Post2_1.jpg
+img2: Post2_2.jpg
+img3: Post2_3.jpg
+img4: Post2_4.jpg
+img5: Post2_5.jpg
 date:   2022-05-04
 categories: jekyll update
 ---

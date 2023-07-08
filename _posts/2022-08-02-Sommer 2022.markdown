@@ -2,6 +2,15 @@
 layout: post
 title:  "Sommer 2022"
 img: KAUST_1.jpg
+img1: Post9_1.jpg
+img2: Post9_2.jpg
+img3: Post9_3.jpg
+img4: Post9_4.jpg
+img5: Post9_5.jpg
+img6: Post9_6.jpg
+img7: Post9_7.jpg
+img8: Post9_8.jpg
+img9: Post9_9.jpg
 date:   2022-08-02
 categories: jekyll update
 ---

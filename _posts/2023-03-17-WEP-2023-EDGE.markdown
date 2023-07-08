@@ -2,6 +2,14 @@
 layout: post
 title:  "WEP 2023 - EDGE"
 img: WEP_1.jpg
+img: Lugano_1.jpg
+img1: Post16_1.jpg
+img2: Post16_2.jpg
+img3: Post16_3.jpg
+img4: Post16_4.jpg
+img5: Post16_5.jpg
+img6: Post16_6.jpg
+img7: Post16_7.jpg
 date:   2023-03-17
 categories: jekyll update
 ---

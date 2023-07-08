@@ -2,6 +2,16 @@
 layout: post
 title:  "Al Balad"
 img: AlBalad_1.jpg
+img: Lugano_1.jpg
+img1: Post12_1.jpg
+img2: Post12_2.jpg
+img3: Post12_3.jpg
+img4: Post12_4.jpg
+img5: Post12_5.jpg
+img6: Post12_6.jpg
+img7: Post12_7.jpg
+img8: Post12_8.jpg
+img9: Post12_9.jpg
 date:   2023-01-27
 categories: jekyll update
 ---

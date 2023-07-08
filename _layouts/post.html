@@ -26,27 +26,55 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">Fotos</h2>
         <div class="recent_item">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="270" height="180" alt="" style="margin:5px" align="left">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="270" height="180" alt="" style="margin:5px" align="left">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="270" height="180" alt="" style="margin:5px" align="left">
+        {% if post.img1 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        {% if post.img2 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        {% if post.img3 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
         </div>
         <div class="recent_item">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img4}} width="270" height="180" alt="" style="margin:5px" align="left">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img5}} width="270" height="180" alt="" style="margin:5px" align="left">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img6}} width="270" height="180" alt="" style="margin:5px" align="left">
+        {% if post.img4 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img4}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        {% if post.img5 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img5}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        {% if post.img6 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img6}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
         </div>
         <div class="recent_item">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img7}} width="270" height="180" alt="" style="margin:5px" align="left">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img8}} width="270" height="180" alt="" style="margin:5px" align="left">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img9}} width="270" height="180" alt="" style="margin:5px" align="left">
-        </div>
+        {% if post.img7 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img7}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        {% if post.img8 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img8}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        {% if post.img9 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img9}} width="180" height="180" alt="" style="margin:5px" align="left">
+        {% endif %}
+        <div class="recent_item">
+          {% if post.img10 %}
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img10}} width="180" height="180" alt="" style="margin:5px" align="left">
+          {% endif %}
+          {% if post.img11 %}
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img11}} width="180" height="180" alt="" style="margin:5px" align="left">
+          {% endif %}
+          {% if post.img12 %}
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img12}} width="180" height="180" alt="" style="margin:5px" align="left">
+          {% endif %}
+      </div>
       </div>
     </div>
   </div>
 </section>
     
     
-  <section class="recent_box">
+  <!--<section class="recent_box">
     <div class="post_wrapper">
       <h2 class="recent_title">Recent post</h2>
       <div class="recent_list">
@@ -61,7 +89,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
-  </section> <!-- End Section Recent Box -->
+  </section>  End Section Recent Box -->
   
   {% include disqus.html %}
   

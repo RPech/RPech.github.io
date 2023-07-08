@@ -2,6 +2,12 @@
 layout: post
 title:  "Angekommen"
 img: ErsterPost_1.jpg
+img1: Post1_1.jpg
+img2: Post1_2.jpg
+img3: Post1_3.jpg
+img4: Post1_4.jpg
+img5: Post1_5.jpg
+img6: Post1_6.jpg
 date:   2022-05-03 
 categories: jekyll update
 ---

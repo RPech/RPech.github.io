@@ -2,6 +2,17 @@
 layout: post
 title:  "DAY 0 - Empty Quarter Tour"
 img: EQ0_1.jpg
+img: Lugano_1.jpg
+img1: Post18_1.jpg
+img2: Post18_2.jpg
+img3: Post18_3.jpg
+img4: Post18_4.jpg
+img5: Post18_5.jpg
+img6: Post18_6.jpg
+img7: Post18_7.jpg
+img8: Post18_8.jpg
+img9: Post18_9.jpg
+img10: Post18_10.jpg
 date:   2023-04-06
 categories: jekyll update
 ---

@@ -2,6 +2,14 @@
 layout: post
 title:  "Freizeit in KAUST"
 img: Zwischenpost_1.jpg
+img1: Post7_1.jpg
+img2: Post7_2.jpg
+img3: Post7_3.jpg
+img4: Post7_4.jpg
+img5: Post7_5.jpg
+img6: Post7_6.jpg
+img7: Post7_7.jpg
+img8: Post7_8.jpg
 date:   2022-06-15
 categories: jekyll update
 ---

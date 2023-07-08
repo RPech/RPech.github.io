@@ -2,6 +2,17 @@
 layout: post
 title:  "Wasserfall Wanderung Taif"
 img: Waterfall_1.jpg
+img: Lugano_1.jpg
+img1: Post17_1.jpg
+img2: Post17_2.jpg
+img3: Post17_3.jpg
+img4: Post17_4.jpg
+img5: Post17_5.jpg
+img6: Post17_6.jpg
+img7: Post17_7.jpg
+img8: Post17_8.jpg
+img9: Post17_9.jpg
+img10: Post17_10.jpg
 date:   2023-03-23
 categories: jekyll update
 ---

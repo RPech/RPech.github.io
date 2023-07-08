@@ -2,6 +2,17 @@
 layout: post
 title:  "Kartoffelfelsen"
 img: Kartoffelfelsen_1.jpg
+img: Lugano_1.jpg
+img1: Post15_1.jpg
+img2: Post15_2.jpg
+img3: Post15_3.jpg
+img4: Post15_4.jpg
+img5: Post15_5.jpg
+img6: Post15_6.jpg
+img7: Post15_7.jpg
+img8: Post15_8.jpg
+img9: Post15_9.jpg
+img10: Post15_10.jpg
 date:   2023-03-11
 categories: jekyll update
 ---

@@ -2,6 +2,14 @@
 layout: post
 title:  "Erste Wüstentour"
 img: ErsteWueste_1.jpg
+img1: Post5_1.jpg
+img2: Post5_2.jpg
+img3: Post5_3.jpg
+img4: Post5_4.jpg
+img5: Post5_5.jpg
+img6: Post5_6.jpg
+img7: Post5_7.jpg
+img8: Post5_8.jpg
 date:   2022-05-24
 categories: jekyll update
 ---

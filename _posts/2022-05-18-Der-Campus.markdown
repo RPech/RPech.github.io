@@ -2,6 +2,14 @@
 layout: post
 title:  "Der Campus"
 img: Campus_1.jpg
+img1: Post4_1.jpg
+img2: Post4_2.jpg
+img3: Post4_3.jpg
+img4: Post4_4.jpg
+img5: Post4_5.jpg
+img6: Post4_6.jpg
+img7: Post4_7.jpg
+img8: Post4_8.jpg
 date:   2022-05-18
 categories: jekyll update
 ---

@@ -2,6 +2,17 @@
 layout: post
 title:  "VENICE 2022"
 img: Venice_1.jpg # Add image post (optional)
+img: Lugano_1.jpg
+img1: Post14_1.jpg
+img2: Post14_2.jpg
+img3: Post14_3.jpg
+img4: Post14_4.jpg
+img5: Post14_5.jpg
+img6: Post14_6.jpg
+img7: Post14_7.jpg
+img8: Post14_8.jpg
+img9: Post14_9.jpg
+img10: Post14_10.jpg
 date:   2023-02-10
 categories: jekyll update
 ---
