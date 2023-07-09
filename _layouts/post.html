@@ -20,13 +20,12 @@ layout: default
       {{page.content | markdownify}}
     </div>
 
-<!-- The grid: four columns -->
+<!-- The grid: four columns 
 <section class="photo_box">
   <div class="recent_list">
     <div class="post_wrapper">
       <h2 class="recent_title"></h2>
         <div class="recent_item">
-        style="background-image:
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="200" height="200" alt="" style="margin:5px" align="left">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="200" height="200" alt="" style="margin:5px" align="left">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="200" height="200" alt="" style="margin:5px" align="left">
@@ -55,7 +54,21 @@ layout: default
       </div>
     </div>
   </div>
-</section>
+</section>-->
+
+<div class ="image-gallery">
+    <div class="box">
+    <a  <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img4}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img5}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img6}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img7}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img8}} width="200" height="200" alt="" style="margin:5px" align="left" class="img-gallery">
+        </a>
+      </div>
+  </div>
     
     <!--
   <section class="recent_box">
