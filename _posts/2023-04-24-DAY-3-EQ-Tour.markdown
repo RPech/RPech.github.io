@@ -3,7 +3,7 @@ layout: post
 title:  "DAY 3 - Empty Quarter Tour"
 img: EQ3_1.jpg
 img1: Post21_1.jpg
-img2: Post21_2.jpg
+img2: Post21_2.JPG
 img3: Post21_3.jpg
 img4: Post21_4.jpg
 img5: Post21_5.jpg
