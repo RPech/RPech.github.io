@@ -58,7 +58,9 @@ layout: default
 
 <div class ="image-gallery">
     <div class="box">
-    <a  <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
+    <a  {% if page.img1 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img1}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
+        {% endif % }
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img2}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img3}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img4}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
@@ -66,6 +68,9 @@ layout: default
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img6}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img7}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
         <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img8}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
+        {% if page.img9 %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img9}} width="220" height="220" alt="" style="margin:5px" align="left" class="img-gallery">
+        {% endif %}
         </a>
       </div>
   </div>

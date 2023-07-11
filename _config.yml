@@ -42,7 +42,7 @@ instagram_url:  https://www.instagram.com/rebackpacker/
 analytics:
 
 # Paginate
-paginate: 12
+paginate: 9
 paginate_path: /page:num/
 
 # Build settings
