@@ -4130,6 +4130,7 @@ cite {
   background-color: #1c1c1c;
   position:absolute;
   height: 15em;
+  width: 100%;
 }
 
 .social_footer {
