@@ -44,12 +44,15 @@ analytics:
 # Paginate
 paginate: 9
 paginate_path: /page:num/
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
 
 # Build settings
 markdown: kramdown
 plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
+
+plugins: [jekyll-paginate]
 
 gems:
   - jekyll-paginate

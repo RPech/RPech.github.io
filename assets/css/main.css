@@ -4128,6 +4128,8 @@ cite {
 
 .main_footer {
   background-color: #1c1c1c;
+  position:absolute;
+  height: 15em;
 }
 
 .social_footer {
@@ -4354,6 +4356,12 @@ cite {
   margin-bottom: 1.5rem;
 }
 
+.photo_box {
+  background-color: #1c1c1c;
+  padding: 2rem 0;
+  margin-bottom: 1.5rem;
+}
+
 .recent_box .recent_title {
   font-size: 1.5rem;
   text-align: center;
@@ -4372,8 +4380,24 @@ cite {
   background-repeat: no-repeat;
 }
 
+.photo_box .recent_list .recent_item {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  margin-left: 1.5%;
+  margin-bottom: 1.5%;
+  height: auto;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .recent_box .recent_list .recent_item:hover {
   opacity: .9;
+}
+
+.photo_box .recent_list .recent_item:hover {
+  opacity: 1.0;
 }
 
 .recent_box .recent_list .recent_item span {
@@ -4384,17 +4408,6 @@ cite {
   font-size: 1rem;
 }
 
-.recent_box .recent_list .recent_item_post_1 {
-  background-image: url(../images/canyon.jpg);
-}
-
-.recent_box .recent_list .recent_item_post_2 {
-  background-image: url(../images/malaysia.jpg);
-}
-
-.recent_box .recent_list .recent_item_post_3 {
-  background-image: url(../images/sweden.jpg);
-}
 
 #tags {
   background-color: #ffffff;
