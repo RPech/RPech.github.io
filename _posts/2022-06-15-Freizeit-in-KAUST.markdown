@@ -26,5 +26,3 @@ Ein beliebtes Ausflugsziel innerhalb KAUSTs ist der South Beach, an dem es (im G
 
 Auch gibt es in KAUST viele verschiedene Gruppen für alle möglichen Aktivitäten (z.B. Board Game Group, Outdoor Expedition Club, Reitclub, Badminton-, Fußball-, Frisbeeteams, usw.).
 Mal schauen, wo ich noch so lande... :D
-
-<img class="image" src="/images/seeds.png">
