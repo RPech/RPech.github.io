@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "ENUMATH 2023 - Lissabon"
+img: Post28_0.jpg
+img1: Post28_1.jpg
+img2: Post28_2.jpg
+img3: Post28_3.jpg
+img4: Post28_4.jpg
+img5: Post28_5.jpg
+img6: Post28_6.jpg
+img7: Post28_7.jpg
+img8: Post28_8.jpg
+img9: Post28_9.jpg
+date:   2023-09-15
+categories: jekyll update
+---
+
+Anfang September durfte ich die ENUMATH (European Conference on Numerical Mathematics and Advanced Applications) 2023 in Lissabon besuchen. 
+Das ist eine relativ große Konferenz für Numeriker und hatte etwa um die 400 Teilnehmer. 
+Nachdem wir Sonntags in Lissabon gelandet waren und unser AirBnB gefunden hatten, erkundeten wir schon etwas die Gegend: Campus, Supermarkt, Restaurant... Der Campus an dem die Konferenz stattfand war tatsächlich nur 10 Gehminuten von der Wohnung entfernt. 
+So starteten wir montags mit der Konferenz und hörten uns in 4 verschiedenen Sessions einige Vorträge an, wobei das auch der einzige Tag war, an dem wir komplett blieben (von 9 bis 17 Uhr durchgängig zuzuhören ist dann doch etwas zu anstrengend, um das jeden Tag zu machen).
+Und so guckten wir uns die nächsten Tage hauptsächlich die Vorträge an, die uns interessierten. Einen Tag machten wir komplett frei, um einmal die Innenstadt von Lissabon zu erkunden und besuchten das Castelo de Jorge, die Sé und noch einige andere Kirchen, das Pantheon und tatsächlich fanden wir online eine glutenfreie Pattiserie, in der wir einiges an Gebäck und natürlich auch das berühmte portugiesische Puddingtörtchen "Pastéis de Nata" probierten. Wir mochten die Croissants aber tatsächlich lieber.
+Nach einem ganzen Tag voller auf- und ablaufen (Lissabon ist ja doch sehr hügelig) waren wir dann auch geschafft und fuhren dann aber noch zum Conference Dinner mit großem Buffet und tatsächlich auch einem Auftritt einer Fado-Sängerin, der Dank Publikumsinteraktionen etwas anstrengend für alle Introvertierten-Herzen war, aber rückblickend eine lustige Erfahrung war.
+Einen Abend schafften wir es auch noch in einem portugisischen Restaurant Essen zu gehen, was mir natürlich nicht so lag, aber trotzdem auch spannend war, da man mit Englisch dann doch nicht so weit kam und die Fisch-Esser sich irgendwie artikulieren mussten, was sie gerne wollten. 
+Freitags endete die Konferenz etwas früher am Nachmittag und so unternahmen wir noch eine Fahrt in Lissabon mit der berühmten Tram 28 durch die Stadt, wobei sich die Stunden Anstehen unserer Meinung dann doch lohnte.
+Samstags waren wir noch zu zweit für einen Tag in Lissabon und nutzen den Tag nochmal etwas aus der Stadt rauszufahren und fuhren nach Sintra, was etwa 40 min Bahnfahrt im Westen von Lissabon liegt. 
+Dort gefiel es uns sehr gut. Wir verbrachten die meiste Zeit davon in der Quinta da Regaleira (tatsächlich ein UNESCO Weltkulturerbe), was ein Anwesen mit großer Gartenanlage, Seen, Grotten, Brunnen, Brücken und sogar einem unterirdischen Tunnellabyrinth ist. Wir hatten sehr viel Spaß das gesamte Gelände zu erkunden. 
+Kurz vor der Rückfahrt kamen wir auch noch in Sintra in den Genuss von einem Eis mit italienischer Qualität - mega lecker!
+Zurück in Lissabon suchten wir uns nur noch etwas zu Essen, packten unsere Sachen und dann ging es Sonntags schon wieder für uns zurück.
