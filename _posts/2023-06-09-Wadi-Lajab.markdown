@@ -5,13 +5,11 @@ img: WadiLajab_1.jpg
 img1: Post25_1.jpg
 img2: Post25_2.jpg
 img3: Post25_3.jpg
-img4: Post25_4.jpg
-img5: Post25_5.jpg
-img6: Post25_6.jpg
-img7: Post25_7.jpg
-img8: Post25_8.jpg
-img9: Post25_9.jpg
-img10: Post25_10.jpg
+img4: Post25_5.jpg
+img5: Post25_6.jpg
+img6: Post25_7.jpg
+img7: Post25_8.jpg
+img8: Post25_9.jpg
 date:   2023-06-09
 categories: jekyll update
 ---
