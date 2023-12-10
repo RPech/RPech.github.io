@@ -3972,10 +3972,11 @@ cite {
 }
 
 #banner .content {
-  padding: 12rem 0 12rem 0;
+  padding: 5rem 15rem 5rem 15rem;
 }
 
 #banner .content .title, #banner .content .sub_title {
+  padding: 12rem 0 12rem 0;
   text-align: center;
   color: #ffffff;
 }
@@ -3991,6 +3992,12 @@ cite {
   margin: 0 auto 2rem auto;
   line-height: 2.5rem;
   font-style: italic;
+}
+
+#banner .content .FeaturedImgBanner {
+  background-size: cover;
+  background-position: center;
+  font-size: 12rem;
 }
 
 .chapters {
@@ -4833,3 +4840,4 @@ cite {
     font-size: 1.2rem;
   }
 }
+
