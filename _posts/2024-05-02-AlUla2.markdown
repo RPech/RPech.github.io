@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Al Ula Old Town + Dadan & Jabal Ikmah 2.0"
+title:  "Al Ula Old Town"
 img: Post38_0.jpg
 img1: Post38_1.jpg
 img2: Post38_2.jpg
